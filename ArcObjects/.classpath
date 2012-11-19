@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_35"/>
+	<classpathentry kind="lib" path="lib/arcobjects.jar"/>
+	<classpathentry kind="lib" path="lib/jsde_sdk.jar"/>
+	<classpathentry kind="lib" path="lib/jpe_sdk.jar"/>
+	<classpathentry kind="lib" path="lib/jsde_sdkres.jar"/>
+	<classpathentry kind="lib" path="lib/icu4j_3_2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sdetools"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
