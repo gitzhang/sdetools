@@ -7,6 +7,5 @@
 	<classpathentry kind="lib" path="lib/jpe_sdk.jar"/>
 	<classpathentry kind="lib" path="lib/jsde_sdkres.jar"/>
 	<classpathentry kind="lib" path="lib/icu4j_3_2.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sdetools"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
